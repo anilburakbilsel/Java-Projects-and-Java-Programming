@@ -1,0 +1,1 @@
+This repo is going to be about Java Programming and Projects. I will be posting codes and projects about Java, and Object Oriented Programming. I personally believe that Java is a very important Programming Language to learn. Knowing Java will help you a lot when you want to learn other programming languages and the concepts in programming! 
